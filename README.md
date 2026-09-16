@@ -1,2 +1,1 @@
-# data-analysis-projects
-Data Analysis Project using excel, sql,powerbi
+Aim of the project is to find the customer churn patterns and suggest strategies to reduce churns using Excel, SQL and PowerBI
